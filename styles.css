@@ -1,0 +1,114 @@
+body {
+  background: linear-gradient(#0d011f, #030f91);
+}
+.title {
+  margin-top: 25px;
+  background-image: url("niceman.jpg");
+  font-size: 75px;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  width: 1200px;
+  height: 600px;
+  margin: 25px auto;
+}
+.title h1 {
+  margin-top: 20px;
+  font-size: 135px;
+  margin-bottom: 0px;
+}
+.question {
+  margin-top: 70px;
+  font-size: 39px;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(244, 244, 248);
+}
+.mainpicture {
+  margin: auto;
+  display: block;
+}
+.row {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+}
+.table {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.notes {
+  margin: auto;
+  padding-top: 12px;
+  font-size: 27px;
+  font-weight: bold;
+  color: rgb(250, 248, 246);
+}
+.notes p {
+  text-align: center;
+  margin-top: 0px;
+}
+.notes ul {
+  list-style-position: inside;
+
+  text-align: center;
+}
+.notes ul li {
+  margin-top: 17px;
+}
+.image {
+  align-self: start;
+}
+.photo {
+  background-image: url("yong.jpg");
+  width: 1163px;
+  height: 622px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.text {
+  margin-top: 5px;
+  width: 350px;
+  font-size: 25px;
+}
+.text p {
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+}
+.physic {
+  background-image: url("physic.jpg");
+  width: 1050px;
+  height: 700px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.money {
+  background-image: url("money.jpg");
+  width: 960px;
+  height: 667px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.text_y {
+  padding-top: 250px;
+  padding-left: 20px;
+}
+.text_y p {
+  width: 350px;
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+}
+.sea {
+  background-image: url("sea.jpg");
+  width: 1207px;
+  height: 705px;
+  margin: auto;
+  margin-bottom: 50px;
+}
